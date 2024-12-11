@@ -6,6 +6,8 @@
 
 ![Parte1](Imagenes-consola/Parte1.png)
 
+![tree](Imagenes-consola/tree.png)
+
 - Inicialización del repositorio con el comando git init
 
 ![Parte1-3-1](Imagenes-consola/Parte1-3-1.png)
